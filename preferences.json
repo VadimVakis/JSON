@@ -1,5 +1,7 @@
-My favorite movie is The Swiss Knife Man, 
-my favorite TV series is True Detective (season 1), 
-my favorite food is draniki, 
-my favorite time of year is summer, 
-the country I would like to visit is Norway.
+{
+   "my favorite movie": "The Swiss Knife Man", 
+   "my favorite TV series": "True Detective (season 1)", 
+   "my favorite food": "draniki",
+   "my favorite time of year": "summer", 
+   "country I would like to visit": "Norway"
+}
