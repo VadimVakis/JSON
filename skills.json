@@ -1,11 +1,11 @@
 {
-	"Skills":{ 
-	"Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC",
-	"What is a client-server architecture",
-        "HTTP Methods of requests to the server", 
+        "Skills":[
+        "Basic theory: {(What is testing, bug reports, documentation, types, methods, testing directions, etc.)} , SDLC, STLC",
+        "What is a client-server architecture",
+        "HTTP Methods of requests to the server",
         "HTTP server response codes",
         "Structures of HTTP requests and responses",
-        "What is JSON, XML. Their structure", 
+        "What is JSON, XML. Their structure",
         "API testing via Postman (JS, API autotests)",
         "Removing and reading logs from an external server",
         "Sniffing http web traffic via Charles and Fiddler",
@@ -27,5 +27,5 @@
         "Load testing in Jmeter",
         "Scrum development methodology",
         "Python. (Learning the basics. Creating a client-server application)"
-	}
+        ]
 }
